@@ -8,8 +8,8 @@
 import Foundation
 class sample {
     
-    func  sample2(abc : String)  {
-        print(abc)
+    func  add()  {
+        print("Hello")
     }
     
 }
