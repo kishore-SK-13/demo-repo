@@ -10,7 +10,7 @@ import Foundation
 class Sample {
     
     func  sub()  {
-        print("This is to subtract")
+        print("Subtraction")
     }
     
 }
