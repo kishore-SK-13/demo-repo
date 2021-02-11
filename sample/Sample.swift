@@ -9,8 +9,8 @@ import Foundation
 
 class Sample {
     
-    func  sub()  {
-        print("Subtraction")
+    func addition(abc : String){
+        print(abc)
     }
     
 }
